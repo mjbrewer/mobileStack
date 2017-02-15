@@ -1,3 +1,4 @@
 language: objective-c
 xcode_project: MobileStack.xcodeproj
 xcode_scheme: MobileStack
+osx_image: xcode8.2
